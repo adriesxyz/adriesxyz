@@ -7,15 +7,21 @@ I’m currently working on: As a Python developer, you can mention what projects
 [![](https://visitcount.itsvg.in/api?id=adriesxyz&icon=9&color=3)](https://visitcount.itsvg.in)
 
 
-## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adries) 
-
+  
 # Tech
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+
+<details>
+
+
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=adriesxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adriesxyz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriesxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adriesxyz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</details>
+
+## Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adries) 
+
